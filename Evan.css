@@ -1,0 +1,42 @@
+img{max-width: 100%;}
+*{margin: 0px;}
+.title{background-color: rgb(98, 43, 226);
+color:white;
+text-align:center;
+font-size:100px}
+.main{padding: 50px 0px 80px 0px;}
+.sub{padding: 60px 0px 0px 40px;}
+.puppy{display:flex;
+margin-bottom: 50px;}
+.puppy img{width:100%;
+height:auto;}
+.threep{display:flex;
+width:80%;
+margin-right: auto;
+margin-left: auto;}
+.red{background-color: rgb(255, 0, 128);
+text-align: center;
+font-size: 70px;
+margin: 0px 30px;}
+.twop{display: flex;
+width:80%;
+margin-right: auto;
+margin-left: auto;
+margin-bottom: 50px;}
+.puppy3{margin-right: 100px;}
+.puppy1,
+.red,
+.puppy2{width:33%;}
+.puppy1 img,
+.red img,
+.puppy2 img{width:100%;
+height:auto;}
+.title2{padding: 50px 0px 50px 0px;
+text-align:center;
+font-size:40px;
+font-weight: bold;}
+.puppy3,
+.puppy4{width:50%;}
+.puppy3 img,
+.puppy4 img{width:100%;
+height:auto:}
